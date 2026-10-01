@@ -61,7 +61,7 @@ window.academicProfile = {
     {
       title: "Policy Optimization and Statistical Inference for Online Contextual Matrix Games",
       authors: "Liner Xiang, Yixin Wang, Hengrui Cai",
-      venue: "Revised and Resubmitted after Major Revision, Journal of the American Statistical Association (JASA)",
+      venue: "Major Revision at Journal of the American Statistical Association (JASA)",
       year: "2026+",
       note: "",
       paper: "https://arxiv.org/abs/2608.17173",                              // Preprint URL
@@ -72,7 +72,7 @@ window.academicProfile = {
 
     {
       title: "Large Language Model Alignment with Complex Feedback: A Survey",
-      authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Hengrui Cai",
+      authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
       venue: "Under Review at ACL Rolling Review (ARR)",
       year: "2026+",
       note: "",
@@ -85,7 +85,7 @@ window.academicProfile = {
     {
       title: "Foresighted Online Policy Optimization with Interference",
       authors: "Liner Xiang, Jiayi Wang, Hengrui Cai",
-      venue: "Major Revision at the Journal of Machine Learning Research (JMLR)",
+      venue: "Invited Revision at the Journal of Machine Learning Research (JMLR)",
       year: "2026+",
       note: "",
       paper: "https://arxiv.org/abs/2510.15273",                              // Preprint URL
@@ -101,7 +101,7 @@ window.academicProfile = {
     {
       title: "Modeling Consumers’ Sequential Product Decisions in an Online Community: Will Missing Data Imputation Improve Prediction and Understanding of Behavior?",
       authors: "Huwail Alantari, Liner Xiang, Hengrui Cai, Weining Shen, Imran S Currim",
-      venue: "Revised and Resubmitted after Major Revision, European Journal of Marketing (EJM)",
+      venue: "Major Revision at European Journal of Marketing (EJM)",
       year: "2026+",
       note: "",
       paper: "",
