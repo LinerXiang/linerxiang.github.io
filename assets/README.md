@@ -1,6 +1,6 @@
-将个人照片、简历和论文 PDF 放在此目录。
+Place profile photos, your CV, and paper PDFs in this directory.
 
-例如：photo.jpg、cv.pdf。然后在 profile.js 中填写 assets/photo.jpg 和 assets/cv.pdf。
+For example, add photo.jpg or cv.pdf, then reference assets/photo.jpg or assets/cv.pdf in profile.js.
 
 LinkedIn icon: Simple Icons v11.15.0 (CC0), https://github.com/simple-icons/simple-icons/tree/11.15.0 . LinkedIn is a trademark of its respective owner.
 
