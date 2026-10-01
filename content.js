@@ -64,7 +64,7 @@
     target.replaceChildren(...items.map(render));
   };
 
-  document.title = `${data.name} | Academic Homepage`;
+  document.title = `${data.headerName || data.authorName || data.name} | Homepage`;
   document.querySelector('meta[name="description"]').content = `${data.name} — ${[data.position, data.institution].filter(Boolean).join(', ')}. Research, publications, and academic background.`;
   fill('.brand-name', data.headerName || data.name);
   fill('h1', data.name);
