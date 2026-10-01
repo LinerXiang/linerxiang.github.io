@@ -5,7 +5,7 @@ window.academicProfile = {
   name: "Liner Xiang（向琳儿）",                // Full name displayed in your profile
   headerName: "Liner Xiang",                  // English name in the top navigation
   authorName: "Liner Xiang",                  // Automatically bold this name in all paper author lists
-  position: "Fifth-year Ph.D. Student",           // e.g., Ph.D. Student / Assistant Professor
+  position: "Ph.D. Student",           // e.g., Ph.D. Student / Assistant Professor
   department: "Department of Statistics",                // Department
   institution: "UC Irvine",  // University or institution
   location: "Irvine, CA",                    // Current location
