@@ -23,7 +23,7 @@ window.academicProfile = {
 
   // Each string becomes a paragraph. Use [link text](https://example.com) for inline links.
   about: [
-    "I am a fifth-year Ph.D. candidate in the [Department of Statistics](https://stat.ics.uci.edu/) at the [University of California, Irvine](https://uci.edu/), within the [Donald Bren School of Information and Computer Sciences](https://ics.uci.edu/). I am co-advised by [Dr. Hengrui Cai](https://hengruicai.github.io/) and [Dr. Weining Shen](https://faculty.sites.uci.edu/weinings/). Before joining UC Irvine, I earned my bachelor's degree in Statistics from the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in June 2022.",
+    "I am a fifth-year Ph.D. candidate in the [Department of Statistics](https://stat.ics.uci.edu/) at the [University of California, Irvine](https://uci.edu/), within the [Donald Bren School of Information and Computer Sciences](https://ics.uci.edu/). I am co-advised by [Dr. Hengrui Cai](https://hengruicai.github.io/) and [Dr. Weining Shen](https://faculty.sites.uci.edu/weinings/). Prior to that, I obtained my bachelor’s degree in Statistics in June 2022 from the [School of the Gifted Young (SGY)](https://en.scgy.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).",
     "My research lies at the intersection of reinforcement learning, natural language processing, and causal inference. I am particularly interested in methodological problems involving sequential decision-making, online learning in complex environments, large language model (LLM) alignment, and policy evaluation in bandit and LLM settings.",
     "My CV is [available here](assets/cv.pdf).",
   ],
