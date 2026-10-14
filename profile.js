@@ -146,7 +146,7 @@ window.academicProfile = {
       title: "Applied Scientist Intern",
       institution: "Amazon",
       location: "Seattle, WA",                            // Internship city, state, or Remote; leave empty to hide
-      details: "Project: Causal Fine-Tuning for Foundation Models on Sequential Data",
+      details: "Project: Causal Fine-Tuning of Foundation Models for Counterfactual Outcome Estimation",
     },
 
     {
