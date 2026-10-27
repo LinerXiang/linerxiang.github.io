@@ -18,14 +18,14 @@ window.academicProfile = {
     scholar: "https://scholar.google.com/citations?user=JAIeHGMAAAAJ&hl=en",                             // Full URL of your Google Scholar profile
     github: "https://github.com/LinerXiang",
     linkedin: "https://www.linkedin.com/in/liner-xiang-8558a5240/",                            // Full URL of your LinkedIn profile, e.g., https://www.linkedin.com/in/your-name/
-    cv: "assets/cv.pdf?v=a72a9bb1c398",                                  // Path or full URL to your CV PDF
+    cv: "assets/cv.pdf?v=33b39f4033fa",                                  // Path or full URL to your CV PDF
   },
 
   // Each string becomes a paragraph. Use [link text](https://example.com) for inline links.
   about: [
     "I am a fifth-year Ph.D. candidate in the [Department of Statistics](https://stat.ics.uci.edu/) at the [University of California, Irvine](https://uci.edu/), within the [Donald Bren School of Information and Computer Sciences](https://ics.uci.edu/). I am co-advised by [Dr. Hengrui Cai](https://hengruicai.github.io/) and [Dr. Weining Shen](https://faculty.sites.uci.edu/weinings/). Prior to that, I obtained my bachelor’s degree in Statistics in June 2022 from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).",
     "My research lies at the intersection of reinforcement learning, natural language processing, and causal inference. I am particularly interested in methodological problems involving sequential decision-making, online learning in complex environments, large language model (LLM) reasoning, and policy evaluation in bandit and LLM settings.",
-    "My CV is [available here](assets/cv.pdf?v=a72a9bb1c398).",
+    "My CV is [available here](assets/cv.pdf?v=33b39f4033fa).",
   ],
 
 
