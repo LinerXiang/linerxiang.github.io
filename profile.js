@@ -32,6 +32,17 @@ window.academicProfile = {
   // Add * after equal-contributing authors; the explanation appears once below the Publications heading.
   publications: [
     {
+      title: "Large Language Model Alignment with Complex Feedback: A Survey",
+      authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
+      venue: "Findings of the European Chapter of the Association for Computational Linguistics (EACL) 2027",
+      year: "2026",
+      note: "",
+      paper: "https://www.preprints.org/manuscript/202608.0674",                              
+      code: "",
+      project: "",
+      bibtex: "",
+    },
+    {
       title: "OTROPE: Optimal Transport-based Robust Off-policy Evaluation for Large Language Models",
       authors: "Liner Xiang, Wenbo Zhang, Hengrui Cai",
       venue: "Advances in Neural Information Processing Systems (NeurIPS)",
@@ -65,18 +76,6 @@ window.academicProfile = {
       year: "2026+",
       note: "",
       paper: "https://arxiv.org/abs/2608.17173",                              // Preprint URL
-      code: "",
-      project: "",
-      bibtex: "",
-    },
-
-    {
-      title: "Large Language Model Alignment with Complex Feedback: A Survey",
-      authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
-      venue: "Under Review at ACL Rolling Review (ARR)",
-      year: "2026+",
-      note: "",
-      paper: "https://www.preprints.org/manuscript/202608.0674",                              // Preprint URL
       code: "",
       project: "",
       bibtex: "",
