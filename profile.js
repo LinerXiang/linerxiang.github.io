@@ -34,8 +34,8 @@ window.academicProfile = {
     {
       title: "Large Language Model Alignment with Complex Feedback: A Survey",
       authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
-      venue: "Findings of the European Chapter of the Association for Computational Linguistics (EACL) 2027",
-      year: "2026",
+      venue: "Findings of the European Chapter of the Association for Computational Linguistics (EACL)",
+      year: "2027",
       note: "",
       paper: "https://www.preprints.org/manuscript/202608.0674",                              
       code: "",
