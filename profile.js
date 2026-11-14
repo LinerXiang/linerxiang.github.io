@@ -29,15 +29,27 @@ window.academicProfile = {
   ],
 
 
-  // Add * after equal-contributing authors; the explanation appears once below the Publications heading.
+  // Add * after equal-contributing authors; the explanation appears once below the Publications / Preprints heading.
   publications: [
+    {
+      title: "Counterfactual Outcome Prediction in Foundation Models: An Inverse Probability Weighting Approach",
+      pinned: true, // Show this latest work first, ahead of year-based ordering.
+      authors: "Liner Xiang, Haitao Jiang, Yang Liu, Jieyi Jiang, Hengrui Cai, Rui Song",
+      venue: "Under review at Association for Computational Linguistics Rolling Review (ARR)",
+      year: "2026",
+      note: "",
+      paper: "",
+      code: "",
+      project: "",
+      bibtex: "",
+    },
     {
       title: "Large Language Model Alignment with Complex Feedback: A Survey",
       authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
       venue: "Findings of the European Chapter of the Association for Computational Linguistics (EACL)",
       year: "2027",
       note: "",
-      paper: "https://www.preprints.org/manuscript/202608.0674",                              
+      paper: "https://www.preprints.org/manuscript/202608.0674",
       code: "",
       project: "",
       bibtex: "",
@@ -65,10 +77,7 @@ window.academicProfile = {
       project: "",                            // Project page URL
       bibtex: "",                             // Use backticks `...` for a multiline BibTeX entry
     },
-  ],
 
-  // Preprints use the same fields as publications. Set to [] to hide this section.
-  preprints: [
     {
       title: "Policy Optimization and Statistical Inference for Online Contextual Matrix Games",
       authors: "Liner Xiang, Yixin Wang, Hengrui Cai",
@@ -92,11 +101,7 @@ window.academicProfile = {
       project: "",
       bibtex: "",
     },
-  ],
 
-  // Research combining multiple disciplines. Uses the same fields as publications.
-  // Set to [] to hide this section and its navigation link.
-  crossDisciplinary: [
     {
       title: "Modeling Consumers’ Sequential Product Decisions in an Online Community: Will Missing Data Imputation Improve Prediction and Understanding of Behavior?",
       authors: "Huwail Alantari, Liner Xiang, Hengrui Cai, Weining Shen, Imran S Currim",
@@ -120,7 +125,6 @@ window.academicProfile = {
       project: "",
       bibtex: "",
     },
-    
   ],
 
   // Education is displayed immediately after About. Set to [] to hide it.
