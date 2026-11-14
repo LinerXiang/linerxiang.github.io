@@ -29,20 +29,8 @@ window.academicProfile = {
   ],
 
 
-  // Add * after equal-contributing authors; the explanation appears once below the Publications / Preprints heading.
+  // Add * after equal-contributing authors; the explanation appears once below the Publications heading.
   publications: [
-    {
-      title: "Counterfactual Outcome Prediction in Foundation Models: An Inverse Probability Weighting Approach",
-      pinned: true, // Show this latest work first, ahead of year-based ordering.
-      authors: "Liner Xiang, Haitao Jiang, Yang Liu, Jieyi Jiang, Hengrui Cai, Rui Song",
-      venue: "Under review at Association for Computational Linguistics Rolling Review (ARR)",
-      year: "2026",
-      note: "",
-      paper: "",
-      code: "",
-      project: "",
-      bibtex: "",
-    },
     {
       title: "Large Language Model Alignment with Complex Feedback: A Survey",
       authors: "Lijinghua Zhang*, Liner Xiang*, Wenbo Zhang*, Yiran Zheng, Hengrui Cai",
@@ -65,7 +53,6 @@ window.academicProfile = {
       project: "",                            // Project page URL
       bibtex: "",                             // Use backticks `...` for a multiline BibTeX entry
     },
-
     {
       title: "Reasoning Is Not Free: Robust Adaptive Cost-Efficient Router for LLM-as-a-Judge",
       authors: "Wenbo Zhang*, Lijinghua Zhang*, Liner Xiang*, Hengrui Cai",
@@ -77,7 +64,33 @@ window.academicProfile = {
       project: "",                            // Project page URL
       bibtex: "",                             // Use backticks `...` for a multiline BibTeX entry
     },
+    {
+      title: "Stroke recurrence prediction using machine learning and segmented neural network risk factor aggregation",
+      authors: "Xueting Ding, Yang Meng, Liner Xiang, Bernadette Boden-Albala",
+      venue: "Discover Public Health",
+      year: "2024",
+      note: "",
+      paper: "https://link.springer.com/article/10.1186/s12982-024-00199-6",
+      code: "https://github.com/yangmeng96/PilotSNA",
+      project: "",
+      bibtex: "",
+    },
+  ],
 
+  // Manuscripts under review or revision, with the latest work first.
+  preprints: [
+    {
+      title: "Counterfactual Outcome Prediction in Foundation Models: An Inverse Probability Weighting Approach",
+      pinned: true, // Show this latest work first, ahead of year-based ordering.
+      authors: "Liner Xiang, Haitao Jiang, Yang Liu, Jieyi Jiang, Hengrui Cai, Rui Song",
+      venue: "Under review at Association for Computational Linguistics Rolling Review (ARR)",
+      year: "2026",
+      note: "",
+      paper: "",
+      code: "",
+      project: "",
+      bibtex: "",
+    },
     {
       title: "Policy Optimization and Statistical Inference for Online Contextual Matrix Games",
       authors: "Liner Xiang, Yixin Wang, Hengrui Cai",
@@ -89,7 +102,6 @@ window.academicProfile = {
       project: "",
       bibtex: "",
     },
-
     {
       title: "Foresighted Online Policy Optimization with Interference",
       authors: "Liner Xiang, Jiayi Wang, Hengrui Cai",
@@ -101,7 +113,6 @@ window.academicProfile = {
       project: "",
       bibtex: "",
     },
-
     {
       title: "Modeling Consumers’ Sequential Product Decisions in an Online Community: Will Missing Data Imputation Improve Prediction and Understanding of Behavior?",
       authors: "Huwail Alantari, Liner Xiang, Hengrui Cai, Weining Shen, Imran S Currim",
@@ -110,18 +121,6 @@ window.academicProfile = {
       note: "",
       paper: "",
       code: "",
-      project: "",
-      bibtex: "",
-    },
-
-    {
-      title: "Stroke recurrence prediction using machine learning and segmented neural network risk factor aggregation",
-      authors: "Xueting Ding, Yang Meng, Liner Xiang, Bernadette Boden-Albala",
-      venue: "Discover Public Health",
-      year: "2024",
-      note: "",
-      paper: "https://link.springer.com/article/10.1186/s12982-024-00199-6",
-      code: "https://github.com/yangmeng96/PilotSNA",
       project: "",
       bibtex: "",
     },

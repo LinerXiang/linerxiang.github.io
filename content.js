@@ -145,10 +145,8 @@
     }
     return row;
   };
-  const papers = [...(data.publications || [])].sort((a, b) =>
-    Number(Boolean(b.pinned)) - Number(Boolean(a.pinned)) ||
-    (parseInt(b.year, 10) || 0) - (parseInt(a.year, 10) || 0));
-  populate('publications', papers, renderPaper);
+  populate('publications', data.publications || [], renderPaper);
+  populate('preprints', data.preprints || [], renderPaper);
   const renderExperience = item => {
     const row = element('div', '', 'experience-row');
     const body = element('div');
