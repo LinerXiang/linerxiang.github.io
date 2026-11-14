@@ -58,8 +58,9 @@
   const populate = (id, items, render) => {
     const section = document.getElementById(id);
     const navigation = document.querySelector(`nav a[href="#${id}"]`);
+    if (!section) return;
     section.hidden = !items.length;
-    navigation.hidden = !items.length;
+    if (navigation) navigation.hidden = !items.length;
     const target = section.querySelector('[data-content]');
     target.replaceChildren(...items.map(render));
   };
